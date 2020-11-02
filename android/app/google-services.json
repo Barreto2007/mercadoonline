@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "360017205322",
+    "firebase_url": "https://mercadoonline-5a831.firebaseio.com",
+    "project_id": "mercadoonline-5a831",
+    "storage_bucket": "mercadoonline-5a831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360017205322:android:fac8b4dc0aea1f42e9aeb3",
+        "android_client_info": {
+          "package_name": "br.com.inovandoti.mercadoonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360017205322-d8nhv93spbv76i6lfcgs9ff80pagfv8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64WAz5mnfMR8Lz-Gf54Z-4hsLQm0cP8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360017205322-d8nhv93spbv76i6lfcgs9ff80pagfv8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
